@@ -1,0 +1,6 @@
+http://www.buttongenerator.com/index.php?nocache=26131&start=0&generator=button
+
+ButtonName : Chrome1
+ButtonColor : 20
+Font: AlbertusExtraBold
+Alignment : Center
